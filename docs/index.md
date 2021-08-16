@@ -1,6 +1,6 @@
 ## خوش آمدید به سایت ما
 
-You can use the [editor on GitHub](https://github.com/ahoomanesh/site/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+شما می توانید برنامه[خود اسکچور](https://s4.uupload.ir/files/picsart_08-11-08.00.01_2c9p.png) دانلود کنید.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
