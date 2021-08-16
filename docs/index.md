@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## خوش آمدید به سایت ما
 
 You can use the [editor on GitHub](https://github.com/ahoomanesh/site/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
